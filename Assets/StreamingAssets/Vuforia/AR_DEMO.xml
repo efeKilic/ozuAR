@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="CARD" size="0.600000 0.919202" />
+    <ImageTarget name="airpods" size="0.100000 0.099162" />
+  </Tracking>
+</QCARConfig>
